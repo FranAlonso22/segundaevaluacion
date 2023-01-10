@@ -1,0 +1,29 @@
+#include//Librería de cabecera
+ //Instrucciones básicas
+ //for
+ using namespace std;
+
+int main(){
+ int cont;
+ for(cont=1;cont‹=4;cont++){
+ cout‹‹"Estoy contento "«‹cont‹‹endl;
+
+}
+ return 0;
+
+}
+
+main(){
+ int cont;
+ int n_tabla;
+ cout‹‹"Dime que tabla deseas:
+ cin››n tabla;
+ Coutくく"*"<<endl;
+ coutくく"*
+Tabla del "<<n tablaぐ"
+ *"‹‹endl;
+ Coutくく"※"<<endl;
+ for (cont=0; cont‹=10; cont++){
+ coutく<n_tablaくぐ" x "くくcontくく" = "<<n_tabla*cont<sendl;
+ }
+ return 0;
