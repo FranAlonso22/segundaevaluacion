@@ -1,0 +1,18 @@
+#include<iostream>
+#include<stdio.h>
+
+using namespace std;
+
+int main(){
+    char letra[]="historia";
+    int cont;
+    fot(cont=0;cont<07;cont++){
+        printf("Dame la letra[%d]=%c en la posición= %x/n" ,c
+       }
+       
+       
+       return 0;
+}
+
+
+
